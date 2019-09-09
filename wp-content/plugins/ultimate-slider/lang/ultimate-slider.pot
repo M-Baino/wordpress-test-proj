@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Slider\n"
+"POT-Creation-Date: 2018-11-21 11:02-0500\n"
+"PO-Revision-Date: 2018-11-21 11:03-0500\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:3
+msgid "Slide Options"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:4
+msgid "Need Help?"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:45
+msgid "Content"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:46
+#: Functions/EWD_US_Add_Meta_Boxes.php:108
+msgid "Buttons"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:47
+msgid "Image"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:51
+msgid "Content Type"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:58
+msgid "Use this post's content"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:67
+msgid "Use UPCP product content"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:85
+msgid "Use WooCommerce product content"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:100
+msgid "Max Title Characters"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:103
+msgid "Max Body Characters"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:112 html/OptionsPage.php:533
+#: html/OptionsPage.php:550
+msgid "Text"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:113
+msgid "Link Type"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:114
+#: Functions/EWD_US_Add_Meta_Boxes.php:122
+msgid "Custom Link"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:139
+msgid "Image Options"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:144
+msgid "Use post's featured image"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:151
+msgid "Use YouTube URL:"
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:158
+msgid "Upgrade to the full version "
+msgstr ""
+
+#: Functions/EWD_US_Add_Meta_Boxes.php:158
+msgid "to be create YouTube video slides."
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:4
+#: Functions/EWD_US_Add_Views_Column.php:15
+msgid "Categories"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:5
+msgid "Thumbnail"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:13
+#: Functions/EWD_US_Register_Custom_Posttype.php:13
+msgid "Slide"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:14
+msgid "Title"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:16
+msgid "Order"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:17
+msgid "Date"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:137
+#: Functions/EWD_US_Add_Views_Column.php:154
+msgid "Shortcode"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:152
+msgid "Name"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:153
+msgid "Description"
+msgstr ""
+
+#: Functions/EWD_US_Add_Views_Column.php:155
+msgid "Count"
+msgstr ""
+
+#: Functions/EWD_US_Deactivation_Survey.php:41
+msgid "Quick Feedback"
+msgstr ""
+
+#: Functions/EWD_US_Deactivation_Survey.php:42
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate Slider:"
+msgstr ""
+
+#: Functions/EWD_US_Deactivation_Survey.php:57
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: Functions/EWD_US_Deactivation_Survey.php:58
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: Functions/EWD_US_Full_Upgrade.php:8
+msgid "Trial successfully started!"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:12
+#: Functions/EWD_US_Widgets.php:10
+msgid "Ultimate Slider"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:14
+msgid "Add New Slide"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:39
+msgid "Slider Categories"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:40
+msgid "Slider Category"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:59
+msgid "Slider Tags"
+msgstr ""
+
+#: Functions/EWD_US_Register_Custom_Posttype.php:60
+msgid "Slider Tag"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:15
+msgid "UPGRADE TO FULL VERSION"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:17
+msgid "What you get by upgrading:"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:33
+msgid "Product Key"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:34
+msgid "Enter product key or free trial code here"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:36
+msgid "UPGRADE"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:51
+msgid "Want to try out the premium features first?"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:54
+msgid "Your free trial is currently active"
+msgstr ""
+
+#: Functions/EWD_US_Upgrade_Box.php:87
+msgid "Upgrade Complete!"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:11
+msgid "Add a slider to any widgetized area."
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:33
+msgid "Number of Slides"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:34
+msgid "Slider Type"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:35
+msgid "Category"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:36
+msgid "Carousel Mode"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:37
+msgid "Slide Indicators"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:40
+msgid "Number of Slides:"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:49
+msgid "Slider Type:"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:56
+msgid "Category:"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:62
+msgid "Carousel Mode:"
+msgstr ""
+
+#: Functions/EWD_US_Widgets.php:69
+msgid "Slide Indicators:"
+msgstr ""
+
+#: Functions/Update_EWD_US_Admin_Databases.php:66
+msgid "Options have been succesfully updated."
+msgstr ""
+
+#: Functions/Update_EWD_US_Content.php:11
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr ""
+
+#: html/AdminHeader.php:2
+msgid "Ultimate Slider Plugin"
+msgstr ""
+
+#: html/OptionsPage.php:79
+msgid ""
+"<strong>REMINDER:</strong> To display the slider, place the "
+"<strong>[ultimate-slider]</strong> shortcode on a page"
+msgstr ""
+
+#: html/OptionsPage.php:84
+msgid "Basic Options"
+msgstr ""
+
+#: html/OptionsPage.php:293
+msgid "Premium Options"
+msgstr ""
+
+#: html/OptionsPage.php:441
+msgid ""
+"Want to customize this lightbox? Install the <a href='https://wordpress.org/"
+"plugins/ultimate-lightbox/'> 'Ultimate Lightbox' plugin </a>, and you switch "
+"the lightbox colors, controls, behaviour and more!"
+msgstr ""
+
+#: html/OptionsPage.php:463
+msgid "Styling Options"
+msgstr ""
+
+#: html/OptionsPage.php:467
+msgid "Slide Title"
+msgstr ""
+
+#: html/OptionsPage.php:470 html/OptionsPage.php:496
+msgid "Font Color"
+msgstr ""
+
+#: html/OptionsPage.php:479 html/OptionsPage.php:505 html/OptionsPage.php:556
+msgid "Font Family"
+msgstr ""
+
+#: html/OptionsPage.php:485 html/OptionsPage.php:511 html/OptionsPage.php:562
+msgid "Font Size"
+msgstr ""
+
+#: html/OptionsPage.php:493
+msgid "Slide Text"
+msgstr ""
+
+#: html/OptionsPage.php:519
+msgid "Slide Buttons"
+msgstr ""
+
+#: html/OptionsPage.php:522 html/OptionsPage.php:633
+msgid "Colors"
+msgstr ""
+
+#: html/OptionsPage.php:525 html/OptionsPage.php:542
+msgid "Background"
+msgstr ""
+
+#: html/OptionsPage.php:529 html/OptionsPage.php:546
+msgid "Border"
+msgstr ""
+
+#: html/OptionsPage.php:539
+msgid "Hover Colors"
+msgstr ""
+
+#: html/OptionsPage.php:586
+msgid "Control Options"
+msgstr ""
+
+#: html/OptionsPage.php:590
+msgid "Arrows"
+msgstr ""
+
+#: html/OptionsPage.php:617
+msgid "Background Shape"
+msgstr ""
+
+#: html/OptionsPage.php:621
+msgid "No Background"
+msgstr ""
+
+#: html/OptionsPage.php:622
+msgid "Square"
+msgstr ""
+
+#: html/OptionsPage.php:623
+msgid "Circle"
+msgstr ""
+
+#: html/OptionsPage.php:624
+msgid "Diamond"
+msgstr ""
+
+#: html/OptionsPage.php:630
+msgid "Customize"
+msgstr ""
+
+#: html/OptionsPage.php:636
+msgid "Arrow"
+msgstr ""
+
+#: html/OptionsPage.php:640
+msgid "Arrow Background"
+msgstr ""
+
+#: html/OptionsPage.php:644
+msgid "Clickable Area"
+msgstr ""
+
+#: html/OptionsPage.php:650
+msgid "Arrow Size"
+msgstr ""
+
+#: html/OptionsPage.php:656
+msgid "Arrow Background Size"
+msgstr ""
+
+#: html/OptionsPage.php:662
+msgid "Clickable Area Size"
+msgstr ""
+
+#: html/OptionsPage.php:668
+msgid "Line Height Of Arrow Within Background (e.g. \"1.25\")"
+msgstr ""

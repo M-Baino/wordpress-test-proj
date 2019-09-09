@@ -1,0 +1,431 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: wpeverest@gmail.com\n"
+"POT-Creation-Date: 2017-08-08 08:42:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:52
+#. translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:48 index.php:59
+msgid "PREV"
+msgstr ""
+
+#: archive.php:49 index.php:60
+msgid "NEXT"
+msgstr ""
+
+#: comments.php:34
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:110
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:117 functions.php:125 functions.php:133
+msgid "Footer %d"
+msgstr ""
+
+#: inc/customizer/default.php:37
+msgid "Login"
+msgstr ""
+
+#: inc/customizer/home-section.php:13
+msgid "Home Section Options"
+msgstr ""
+
+#: inc/customizer/home-section.php:22
+msgid "Slider Section Setting"
+msgstr ""
+
+#: inc/customizer/home-section.php:40
+msgid "Enable Slider Section"
+msgstr ""
+
+#: inc/customizer/home-section.php:57
+msgid "Select Slider Type"
+msgstr ""
+
+#: inc/customizer/home-section.php:62
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/home-section.php:63 inc/customizer/home-section.php:119
+msgid "Banner Image"
+msgstr ""
+
+#: inc/customizer/home-section.php:79 inc/customizer/home-section.php:289
+#: inc/customizer/home-section.php:372 inc/customizer/home-section.php:475
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/home-section.php:98
+msgid "No of Slider"
+msgstr ""
+
+#: inc/customizer/home-section.php:120
+msgid "Enter the ID of post to use as a banner image."
+msgstr ""
+
+#: inc/customizer/home-section.php:139
+msgid "Button Title"
+msgstr ""
+
+#: inc/customizer/home-section.php:156
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/home-section.php:167
+msgid "Intro Section Setting"
+msgstr ""
+
+#: inc/customizer/home-section.php:186
+msgid "Intro Title"
+msgstr ""
+
+#: inc/customizer/home-section.php:204
+msgid "Select Intro Page"
+msgstr ""
+
+#: inc/customizer/home-section.php:205 inc/customizer/home-section.php:272
+msgid "Select page from dropdown or leave blank if you want to hide this section."
+msgstr ""
+
+#: inc/customizer/home-section.php:215
+msgid "Service Section Setting"
+msgstr ""
+
+#: inc/customizer/home-section.php:233
+msgid "Enable Service Section"
+msgstr ""
+
+#: inc/customizer/home-section.php:252
+msgid "Service Title"
+msgstr ""
+
+#: inc/customizer/home-section.php:271
+msgid "Select Service Page"
+msgstr ""
+
+#: inc/customizer/home-section.php:307
+msgid "Select number for Service"
+msgstr ""
+
+#: inc/customizer/home-section.php:319
+msgid "Work Section Setting"
+msgstr ""
+
+#: inc/customizer/home-section.php:337
+msgid "Enable Work Section"
+msgstr ""
+
+#: inc/customizer/home-section.php:355
+msgid "Our Work Title"
+msgstr ""
+
+#: inc/customizer/home-section.php:373
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: inc/customizer/home-section.php:391
+msgid "Select number"
+msgstr ""
+
+#: inc/customizer/home-section.php:403
+msgid "Blog Section Setting"
+msgstr ""
+
+#: inc/customizer/home-section.php:421
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/customizer/home-section.php:440
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer/home-section.php:458
+msgid "Blog Description"
+msgstr ""
+
+#: inc/customizer/home-section.php:493
+msgid "Select number for Blog"
+msgstr ""
+
+#: inc/customizer/theme-section.php:15
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-section.php:23
+msgid "General Option"
+msgstr ""
+
+#: inc/customizer/theme-section.php:38
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-section.php:61
+msgid "Pagaination Options"
+msgstr ""
+
+#: inc/customizer/theme-section.php:66
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/theme-section.php:67
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/theme-section.php:75
+msgid "Header Setting"
+msgstr ""
+
+#: inc/customizer/theme-section.php:89 inc/customizer/theme-section.php:130
+#: inc/customizer/theme-section.php:151
+msgid "Choose Option"
+msgstr ""
+
+#: inc/customizer/theme-section.php:94
+msgid "Logo Only"
+msgstr ""
+
+#: inc/customizer/theme-section.php:95
+msgid "Logo + Tagline"
+msgstr ""
+
+#: inc/customizer/theme-section.php:96
+msgid "Title Only"
+msgstr ""
+
+#: inc/customizer/theme-section.php:97
+msgid "Title + Tagline"
+msgstr ""
+
+#: inc/customizer/theme-section.php:113
+msgid "Enable Top Header Section"
+msgstr ""
+
+#: inc/customizer/theme-section.php:135
+msgid "Search in Left Side of Header"
+msgstr ""
+
+#: inc/customizer/theme-section.php:136
+msgid "Search in Right Side of Header"
+msgstr ""
+
+#: inc/customizer/theme-section.php:137
+msgid "No Search"
+msgstr ""
+
+#: inc/customizer/theme-section.php:156
+msgid "Menu + Social Icon"
+msgstr ""
+
+#: inc/customizer/theme-section.php:157
+msgid "Social Icon + Menu"
+msgstr ""
+
+#: inc/customizer/theme-section.php:171
+msgid "Header Address"
+msgstr ""
+
+#: inc/customizer/theme-section.php:187
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/theme-section.php:206
+msgid "Contact Email"
+msgstr ""
+
+#: inc/customizer/theme-section.php:224 inc/customizer/theme-section.php:251
+msgid "Enable Social Icon Section"
+msgstr ""
+
+#: inc/customizer/theme-section.php:235
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/theme-section.php:268
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/hook/basic.php:20
+msgid "Home"
+msgstr ""
+
+#: inc/hook/basic.php:50
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/hook/basic.php:185
+msgid "&mdash; All &mdash;"
+msgstr ""
+
+#: inc/hook/custom.php:305
+msgid "Theme of %s"
+msgstr ""
+
+#: inc/hook/slider-section.php:64 inc/hook/slider-section.php:107
+#: page-template/template-home.php:54 page-template/template-home.php:316
+msgid "Read More"
+msgstr ""
+
+#: inc/hook/structure.php:47
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-tags.php:66
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:69
+#. translators: 1: list of categories.
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:76
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:90 template-parts/content-page.php:35
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: page-template/template-home.php:190
+msgid "All"
+msgstr ""
+
+#: page-template/template-home.php:326
+msgid "View All Posts"
+msgstr ""
+
+#: search.php:31
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:52
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:40
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:29
+#. translators: %s: post date.
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:47
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:73
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
